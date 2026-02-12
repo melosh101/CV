@@ -149,9 +149,9 @@ export const MyDocument = () => (
       <View style={styles.main}>
         <View style={styles.section}>
           <Text style={styles.name}>Milas Holsting</Text>
-          <Text style={styles.title}>Junior Web Developer</Text>
+          <Text style={styles.title}>Junior Webudvikler</Text>
           <Text style={styles.entryDescription}>
-            Jeg er en 19 årig ung dreng, som elsker et god udfordring. Jeg har
+            Jeg er en 20 årig ung dreng, som elsker en god udfordring. Jeg har
             programeret siden jeg var 15 år gammel, og har altid haft en stor
             passion for teknologi og udvikling.
           </Text>
@@ -161,7 +161,7 @@ export const MyDocument = () => (
           <Text style={styles.sectionHeader}>Erfaringer</Text>
 
           <View style={styles.entryContainer}>
-            <Text style={styles.entryTitle}>Web Udvilker</Text>
+            <Text style={styles.entryTitle}>Web Udvikler</Text>
             <View
               style={{
                 flexDirection: "row",
