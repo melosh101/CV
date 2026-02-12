@@ -174,7 +174,7 @@ export const MyDocument = () => (
             </View>
             <Text style={styles.entryDescription}>
               • På Spejdernes Lejr har jeg været med at til sørge for 30.000
-              spejdere kunne blive tilmeldt de cirka 300 aktiviterer som lejren
+              spejdere kunne blive tilmeldt de cirka 300 aktiviteter som lejren
               har. Jeg har været primær udvikler på vores aktivitets tilmeldings
               system, som er bygget til at kunne holde til 2.500 ledere som har
               skulle tilmelde aktiviteter på en gang. Her har jeg været med til
