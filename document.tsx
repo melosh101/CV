@@ -183,8 +183,26 @@ export const MyDocument = () => (
               horizontalt.{" "}
             </Text>
           </View>
-        </View>
 
+          <View style={styles.entryContainer}>
+            <Text style={styles.entryTitle}>Maintainer/contributer</Text>
+            <View
+              style={{
+                flexDirection: "row",
+                justifyContent: "space-between",
+                marginBottom: 5,
+              }}
+            >
+              <Text style={styles.entrySubtitle}>Animechan</Text>
+              <Text style={styles.date}>Januar 2024 - April 2025</Text>
+            </View>
+            <Text style={styles.entryDescription}>
+              • Hos animechan var jeg med til at tilføje ratelimitig til api'et.
+              Jeg stod også for at migrærer databasen fra mongodb til postgres.
+              Jeg har også hjulpet med maintenance og vedligeholdelse af api'et{" "}
+            </Text>
+          </View>
+        </View>
         <View style={styles.section}>
           <Text style={styles.sectionHeader}>Education</Text>
 
